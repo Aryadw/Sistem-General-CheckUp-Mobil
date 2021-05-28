@@ -9,7 +9,6 @@ package ta_uas;
  *
  * @author USER
  */
-**//checking by Arya Dewa Wijaya
 
 public class Servis extends Part{
     private int kerusakan;
